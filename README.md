@@ -17,7 +17,7 @@ Demonstration of my technical full-stack coding ability, throughout a full proje
 
 Demonstration of my front-end planning and design abilities. A solo project I started to track symptoms of GERD, while incomplete the idea is that it would be able to track patterns between custom set of data. A Typescript project run with [WebPack-Dev-Server](https://webpack.js.org/configuration/dev-server/).
 
-<p align="center"> <img src="buddy.gif" alt="Scrolling through days in GERDBuddy" width="300" title="Scrolling through days in GERDBuddy"/>
+<p align="center"> <img src="buddy.gif" alt="Scrolling through days in GERDBuddy" width="240" title="Scrolling through days in GERDBuddy"/>
 <br /> <br />
 
 ## Grade Guru
@@ -27,4 +27,4 @@ Demonstration of my front-end planning and design abilities. A solo project I st
 
 Demonstration of my collaborative design and full-stack coding abilities. A group project designed to manage a user's grades, served as the final for my COGS 121 class. A pure Javascript project with CSS managed by [Bootstrap](https://getbootstrap.com/) and hosted on Heroku.
 
-<p align="center"> <img src="guru.gif" alt="Grade Guru test demo" width="300" title="Grade Guru test demo" /> </p>
+<p align="center"> <img src="guru.gif" alt="Grade Guru test demo" width="240" title="Grade Guru test demo" /> </p>
