@@ -17,7 +17,8 @@ Demonstration of my technical full-stack coding ability, throughout a full proje
 
 Demonstration of my front-end planning and design abilities. A solo project I started to track symptoms of GERD, while incomplete the idea is that it would be able to track patterns between custom set of data. A Typescript project run with [WebPack-Dev-Server](https://webpack.js.org/configuration/dev-server/).
 
-![Scrolling through days in GERDBuddy](/buddy.gif "Scrolling through days in GERDBuddy")  
+![Scrolling through days in GERDBuddy](/buddy.gif "Scrolling through days in GERDBuddy") 
+<img src="buddy.gif" alt="Scrolling through days in GERDBuddy" width="200"/>
 <br /> <br />
 
 ### Grade Guru
