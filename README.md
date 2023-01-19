@@ -7,7 +7,7 @@
 Demonstration of my technical full-stack coding ability, throughout a full project lifecycle. A research project done in collaboration with UCSD's [Engineers for Exploration](https://e4e.ucsd.edu/maya-archaeology), taking scanned models of South American caves, and making them visible and navigable in a 3D Web VR environment. I was the sole contributor on the web project, though I received resources and guidance from mentors in E4E. A Typescript project that heavily uses the [BabylonJS](https://www.babylonjs.com/) Engine, run with [WebPack-Dev-Server](https://webpack.js.org/configuration/dev-server/) and Docker.
 
 ![Steven Looking around a cave](/maya.gif "Steven Looking around a cave")  
-\\
+<br />
 
 ### GERD Buddy
 
@@ -16,7 +16,7 @@ Demonstration of my technical full-stack coding ability, throughout a full proje
 Demonstration of my front-end planning and design abilities. A solo project I started to track symptoms of GERD, while incomplete the idea is that it would be able to track patterns between custom set of data. A Typescript project run with [WebPack-Dev-Server](https://webpack.js.org/configuration/dev-server/).
 
 ![Steven Looking around a cave](/maya.gif "Steven Looking around a cave")  
-\\
+<br />
 
 ### Grade Guru
 
