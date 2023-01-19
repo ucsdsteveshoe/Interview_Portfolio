@@ -12,7 +12,7 @@ Demonstration of my technical full-stack coding ability, throughout a full proje
 
 ### GERD Buddy
 
-[Link](https://github.com/ucsdsteveshoe/GERDBuddy)
+[Link](https://github.com/ucsdsteveshoe/GERDBuddy)  
 <br />
 
 Demonstration of my front-end planning and design abilities. A solo project I started to track symptoms of GERD, while incomplete the idea is that it would be able to track patterns between custom set of data. A Typescript project run with [WebPack-Dev-Server](https://webpack.js.org/configuration/dev-server/).
@@ -22,7 +22,7 @@ Demonstration of my front-end planning and design abilities. A solo project I st
 
 ### Grade Guru
 
-[Link](https://github.com/ucsdsteveshoe/Grade_Guru)
+[Link](https://github.com/ucsdsteveshoe/Grade_Guru)  
 <br />
 
 Demonstration of my collaborative design and full-stack coding abilities. A group project designed to manage a user's grades, served as the final for my COGS 121 class. A pure Javascript project with CSS managed by [Bootstrap](https://getbootstrap.com/) and hosted on Heroku.
