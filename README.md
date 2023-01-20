@@ -25,6 +25,13 @@ Demonstration of my front-end planning and design abilities. A solo project I st
 [Link](https://github.com/ucsdsteveshoe/Grade_Guru)  
 <br />
 
-Demonstration of my collaborative design and full-stack coding abilities. A group project designed to manage a user's grades, served as the final for my COGS 121 class. A pure Javascript project with CSS managed by [Bootstrap](https://getbootstrap.com/) and hosted on Heroku.
+Demonstration of my collaborative design and full-stack coding abilities. A group project designed to manage a user's grades, served as the final for my COGS 121 class. A pure JavaScript project with CSS managed by [Bootstrap](https://getbootstrap.com/) and hosted on Heroku.
 
 <p align="center"> <img src="guru.gif" alt="Grade Guru test demo" width="240" title="Grade Guru test demo" /> </p>
+<br /> <br />
+
+## Notion Portfolio
+
+[Link](https://www.notion.so/fc03a0a82b2d4357b3248b7faeae649d?v=2f5128d1fc714d03a4c3e40d6e460c58)
+
+An old portfolio of past projects and case studies I created for a class back in 2021. While it doesn't reflect the quality of my work now, it helps as a deeper dive into my past.
